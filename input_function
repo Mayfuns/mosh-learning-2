@@ -1,0 +1,4 @@
+Your_name = input("Enter your name ")
+Best_color = input("Enter your color ")
+Your_word = Your_name + " " + "likes" + Best_color
+print(Your_word)
